@@ -1,0 +1,440 @@
+# Translation of Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-12 13:11:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: includes/vc-showcase.php:190
+msgid "6 per line"
+msgstr "6 por linha"
+
+#: includes/vc-showcase.php:191
+msgid "8 per line"
+msgstr "8 por linha"
+
+#: includes/vc-showcase.php:192
+msgid "10 per line"
+msgstr "10 por linha"
+
+#: includes/vc-showcase.php:195
+msgid "How many Showcases per scroll"
+msgstr "Quantas Showcases por scroll"
+
+#: includes/vc-showcase.php:199
+msgid "stopOnHover"
+msgstr "stopOnHover"
+
+#: includes/vc-showcase.php:202 includes/vc-showcase.php:239
+#: includes/vc-showcase.php:251 includes/vc-showcase.php:261
+msgid "Deactivated"
+msgstr "Desativado"
+
+#: includes/vc-showcase.php:203 includes/vc-showcase.php:240
+#: includes/vc-showcase.php:250 includes/vc-showcase.php:262
+msgid "Activated"
+msgstr "Ativado"
+
+#: includes/vc-showcase.php:206
+msgid "Stop autoplay on mouse hover"
+msgstr "Para o autoplay quando mouse hover"
+
+#: includes/vc-showcase.php:210
+msgid "autoPlay"
+msgstr "AutoPlay"
+
+#: includes/vc-showcase.php:213
+msgid "3 Seconds"
+msgstr "3 Segundos"
+
+#: includes/vc-showcase.php:214
+msgid "6 Seconds"
+msgstr "6 Segundos"
+
+#: includes/vc-showcase.php:215
+msgid "8 Seconds"
+msgstr "8 Segundos"
+
+#: includes/vc-showcase.php:216
+msgid "14 Seconds"
+msgstr "14 Segundos"
+
+#: includes/vc-showcase.php:217
+msgid "28 Seconds"
+msgstr "28 Segundos"
+
+#: includes/vc-showcase.php:218
+msgid "56 Seconds"
+msgstr "56 Segundos"
+
+#: includes/vc-showcase.php:219
+msgid "Stoped"
+msgstr "Parado"
+
+#: includes/vc-showcase.php:225
+msgid "Pagination Speed"
+msgstr "Velocidade de Paginação"
+
+#: includes/vc-showcase.php:228
+msgid "4 Milliseconds"
+msgstr "4 Milissegundos"
+
+#: includes/vc-showcase.php:229
+msgid "8 Milliseconds"
+msgstr "8 Milissegundos"
+
+#: includes/vc-showcase.php:230
+msgid "16 Milliseconds"
+msgstr "6 Milissegundos"
+
+#: includes/vc-showcase.php:236
+msgid "Navigation"
+msgstr "Navegação"
+
+#: includes/vc-showcase.php:243
+msgid "Display \"Next\" and \"Previous\" buttons."
+msgstr "Exibir botões  \"Próximo\" e \"Anterior\"."
+
+#: includes/vc-showcase.php:247
+msgid "Pagination"
+msgstr "Paginação"
+
+#: includes/vc-showcase.php:254
+msgid "Show pagination"
+msgstr "Exibir Paginação"
+
+#: includes/vc-showcase.php:258
+msgid "Pagination with Numbers"
+msgstr "Paginação com Números"
+
+#: includes/vc-showcase.php:265
+msgid "Show numbers inside pagination buttons"
+msgstr "Mostra números dentro dos botões de paginação"
+
+#: includes/vc-showcase.php:269
+msgid "Image Thumbnail"
+msgstr "Imagem do Thumbnail"
+
+#: includes/vc-showcase.php:273
+msgid "Circle"
+msgstr "Circulo"
+
+#: includes/vc-showcase.php:274
+msgid "Square"
+msgstr "Quadrado"
+
+#: includes/vc-showcase.php:276 includes/vc-showcase.php:285
+#: includes/vc-showcase.php:293
+msgid "Image Configuration"
+msgstr "Configuracão da Imagem"
+
+#: includes/vc-showcase.php:277
+msgid "Select the presentation thumbnail format"
+msgstr "Selecione o formatado de apresentação do thumbnail"
+
+#: includes/vc-showcase.php:281
+msgid "Image Size Thumb"
+msgstr "Tamanho da Imagem de Destaque"
+
+#: includes/vc-showcase.php:286
+msgid "Add your custom <strong>image_size()</strong> if you want."
+msgstr "Adicione a sua <strong>image_size()</strong> personalizada se desejar."
+
+#: includes/vc-showcase.php:290
+msgid "Add Custom Class"
+msgstr "Adicione Classe Personalizada"
+
+#: includes/vc-showcase.php:294
+msgid "Add your custom <strong>Class</strong> if you want."
+msgstr "Adicione a sua <strong>Classe</strong> personalizada se desejar."
+
+#: includes/vc-showcase.php:297
+msgid "CHR Designer - Shortcodes"
+msgstr "CHR Designer - Shortcodes"
+
+#: showcase-vc-addon.php:31
+msgid "The <strong>Showcase Visual Composer</strong> plugin requires <strong>Visual Composer</strong> version 4.3 or greater."
+msgstr "O <strong>Showcase Visual Composer</strong> requer o plugin <strong>Visual Composer</strong> versão 4.3 ou maior."
+
+#: showcase-vc-addon.php:35
+msgid "The <strong>Showcase Visual Composer</strong> plugin requires <strong>Visual Composer</strong> installed and activated."
+msgstr "O <strong>Showcase Visual Composer</strong> requer o plugin <strong>Visual Composer</strong> instalado e ativo."
+
+#: showcase-vc-addon.php:47
+msgid "Showcase"
+msgstr "Showcase"
+
+#: showcase-vc-addon.php:49
+msgid "Parent Showcase:"
+msgstr "Showcase Parente:"
+
+#: showcase-vc-addon.php:50
+msgid "All Showcases"
+msgstr "Todos Showcases"
+
+#: showcase-vc-addon.php:51
+msgid "View Showcase"
+msgstr "Visualizar Showcase"
+
+#: showcase-vc-addon.php:52
+msgid "Add New Showcase"
+msgstr "Adicionar Novo Showcase"
+
+#: showcase-vc-addon.php:53
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: showcase-vc-addon.php:54
+msgid "Edit Showcase"
+msgstr "Editar Showcase"
+
+#: showcase-vc-addon.php:55
+msgid "Update Showcase"
+msgstr "Atualizar Showcase"
+
+#: showcase-vc-addon.php:56
+msgid "Search Showcase"
+msgstr "Procurar Showcase"
+
+#: showcase-vc-addon.php:57
+msgid "Not found"
+msgstr "Não Encontrado"
+
+#: showcase-vc-addon.php:58
+msgid "Not found in Trash"
+msgstr "Nenhum registro encontrado na lixeira"
+
+#: single-showcases.php:48
+msgid "Links:"
+msgstr "Links:"
+
+#: includes/add-colums-showcase.php:9
+msgid "Name"
+msgstr "Nome"
+
+#: includes/add-colums-showcase.php:8
+msgid "Image/Brand"
+msgstr "Imagem/Marca"
+
+#: includes/add-colums-showcase.php:10
+msgid "Summary Content"
+msgstr "Resumo do Conteúdo"
+
+#: includes/add-colums-showcase.php:11
+msgid "URL"
+msgstr "URL"
+
+#: includes/shortcode-showcase.php:5 includes/vc-showcase.php:53
+#: showcase-vc-addon.php:46 showcase-vc-addon.php:48
+msgid "Showcases"
+msgstr "Showcases"
+
+#: includes/shortcode-showcase.php:49
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/shortcode-showcase.php:49
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/showcase_meta_box.php:9
+msgid "More Info - Showcase"
+msgstr "Mais Informações - Showcase"
+
+#: includes/showcase_meta_box.php:43
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: includes/showcase_meta_box.php:47 includes/showcase_meta_box.php:56
+#: includes/showcase_meta_box.php:65 includes/showcase_meta_box.php:74
+msgid "Please, don't forget to add <strong>http://</strong> in your link..."
+msgstr "Atenção: Não esqueça de adicionar o <strong>http://</strong> em seu link..."
+
+#: includes/showcase_meta_box.php:52
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+#: includes/showcase_meta_box.php:61
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: includes/showcase_meta_box.php:70
+msgid "Custom Link:"
+msgstr "Link Personalizado:"
+
+#: includes/vc-showcase.php:55
+msgid "Shortcode for Showcase"
+msgstr "Shortcode do Showcase"
+
+#: includes/vc-showcase.php:60
+msgid "Configure Title Style"
+msgstr "Configure o estilo do título"
+
+#: includes/vc-showcase.php:61 includes/vc-showcase.php:68
+#: includes/vc-showcase.php:85 includes/vc-showcase.php:97
+#: includes/vc-showcase.php:102 includes/vc-showcase.php:109
+#: includes/vc-showcase.php:123 includes/vc-showcase.php:136
+#: includes/vc-showcase.php:150 includes/vc-showcase.php:157
+msgid "General Settings"
+msgstr "Configurações Geral"
+
+#: includes/vc-showcase.php:65
+msgid "Title color"
+msgstr "Cor do Título"
+
+#: includes/vc-showcase.php:69
+msgid "Color Default is #333333"
+msgstr "Cor Padrão é #333333"
+
+#: includes/vc-showcase.php:70
+msgid "Choose title color"
+msgstr "Escolha a cor do título"
+
+#: includes/vc-showcase.php:75
+msgid "Font Size Title"
+msgstr "Tamanho da Fonte Título"
+
+#: includes/vc-showcase.php:84
+msgid "Default is 30px"
+msgstr "Padrão é 30px"
+
+#: includes/vc-showcase.php:89
+msgid "Text Align - Title"
+msgstr "Alinhar Texto - Título"
+
+#: includes/showcase_meta_box.php:35 includes/vc-showcase.php:92
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/showcase_meta_box.php:36 includes/vc-showcase.php:93
+msgid "Center"
+msgstr "Centro"
+
+#: includes/showcase_meta_box.php:37 includes/vc-showcase.php:94
+msgid "Right"
+msgstr "Direita"
+
+#: includes/vc-showcase.php:96
+msgid "Default is Left"
+msgstr "Padrão é Esquerda"
+
+#: includes/vc-showcase.php:101
+msgid "Configure Content Box Style"
+msgstr "Configure o estilo do bloco de conteúdo"
+
+#: includes/vc-showcase.php:106
+msgid "Border Color"
+msgstr "Cor da Borda"
+
+#: includes/vc-showcase.php:110
+msgid "Choose Border Color<br /><small>Color Default is #F4F4F4</small>"
+msgstr "Escolha a Cor da Borda<br /><small>Cor padrão é #F4F4F4</small>"
+
+#: includes/vc-showcase.php:115
+msgid "Border Width"
+msgstr "Largura da Borda"
+
+#: includes/vc-showcase.php:122
+msgid "Default is 6px"
+msgstr "Padrão é 6px"
+
+#: includes/vc-showcase.php:128
+msgid "Border Radius"
+msgstr "Borda Arredondada"
+
+#: includes/vc-showcase.php:135
+msgid "Default is 0px"
+msgstr "Padrão é 0px"
+
+#: includes/vc-showcase.php:140
+msgid "Border Style"
+msgstr "Estilo da Borda"
+
+#: includes/vc-showcase.php:143
+msgid "Solid"
+msgstr "Solida"
+
+#: includes/vc-showcase.php:144
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: includes/vc-showcase.php:145
+msgid "Dashed"
+msgstr "Tracejada"
+
+#: includes/vc-showcase.php:146
+msgid "Double"
+msgstr "Dupla"
+
+#: includes/vc-showcase.php:147
+msgid "None"
+msgstr "Nenhuma"
+
+#: includes/vc-showcase.php:149
+msgid "Default is Solid"
+msgstr "Padrão é Solido"
+
+#: includes/vc-showcase.php:154
+msgid "Background Color"
+msgstr "Cor do Fundo"
+
+#: includes/vc-showcase.php:158
+msgid "Choose Background Color<br /><small>Color Default is #FCFCFC</small>"
+msgstr "Escolha a Cor de Fundo<br /><small>Cor Padrão é #FCFCFC</small>"
+
+#: includes/vc-showcase.php:162
+msgid "Order Showcase"
+msgstr "Ordenar Showcase"
+
+#: includes/vc-showcase.php:165
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/vc-showcase.php:166
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/vc-showcase.php:167
+msgid "RAND"
+msgstr "RAND"
+
+#: includes/vc-showcase.php:169 includes/vc-showcase.php:181
+#: includes/vc-showcase.php:194 includes/vc-showcase.php:205
+#: includes/vc-showcase.php:221 includes/vc-showcase.php:232
+#: includes/vc-showcase.php:242 includes/vc-showcase.php:253
+#: includes/vc-showcase.php:264
+msgid "Carousel options"
+msgstr "Opções do Carrousel"
+
+#: includes/vc-showcase.php:173
+msgid "Show Content"
+msgstr "Mostrar Conteúdo"
+
+#: includes/vc-showcase.php:177
+msgid "Below"
+msgstr "Abaixo"
+
+#: includes/vc-showcase.php:178
+msgid "Above"
+msgstr "Acima"
+
+#: includes/vc-showcase.php:179
+msgid "Floats"
+msgstr "Flutuando"
+
+#: includes/vc-showcase.php:182
+msgid "Presentation of Content"
+msgstr "Apresentação de conteúdo"
+
+#: includes/vc-showcase.php:186
+msgid "List per"
+msgstr "Listar por"
+
+#: includes/vc-showcase.php:189
+msgid "4 per line"
+msgstr "4 por linha"

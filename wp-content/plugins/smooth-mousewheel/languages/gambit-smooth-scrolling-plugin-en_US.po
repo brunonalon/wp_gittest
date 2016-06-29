@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Loading Bar\n"
+"POT-Creation-Date: 2015-07-01 16:10+0800\n"
+"PO-Revision-Date: 2015-07-01 16:10+0800\n"
+"Last-Translator: Benjamin Intal <bf.intal@gambit.ph>\n"
+"Language-Team: Gambit <bfintal@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-admin-license.php:433
+msgid "Plugin Activation Page for Gambit Plugins"
+msgstr ""
+
+#: ../class-admin-license.php:435
+#, php-format
+msgid ""
+"Get notified of plugin updates right here in your WordPress admin! Just "
+"enter your purchase code for our plugins in the field/s below to get "
+"automatic updates. Don&apos;t know how to get your purchase code? "
+"%sHere&apos;s how.%s"
+msgstr ""
+
+#: ../class-admin-license.php:443
+msgid "Plugin"
+msgstr ""
+
+#: ../class-admin-license.php:444 ../class-admin-license.php:471
+msgid "Purchase Code"
+msgstr ""
+
+#: ../class-admin-license.php:472
+msgid "Save & Activate Automatic Updates"
+msgstr ""
+
+#: ../class-admin-license.php:477
+msgid "FAQ"
+msgstr ""
+
+#: ../class-admin-license.php:493
+msgid "Other Gambit Plugins That You Might Find Useful"
+msgstr ""
+
+#: ../class-admin-license.php:531
+msgid "View Demo"
+msgstr ""
+
+#: ../class-admin-license.php:534
+msgid "Learn More"
+msgstr ""
+
+#: ../class-admin-license.php:555
+msgid "Need Support?"
+msgstr ""
+
+#: ../class-admin-license.php:557
+msgid "Enjoying Our Plugin?"
+msgstr ""
+
+#: ../class-admin-license.php:565
+msgid ""
+"Show your appreciation by <strong>rating our plugins 5 stars in CodeCanyon</"
+"strong>. Doing that will greatly help us and will allow us to provide you "
+"with better support and even more awesome plugins. :)"
+msgstr ""
+
+#: ../class-admin-license.php:904
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: ../class-admin-license.php:911
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: ../class-admin-license.php:1051
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../class-admin-license.php:1051
+msgid "Error"
+msgstr ""
+
+#: ../class-admin-pointers.php:20 ../class-plugin.php:40
+msgid "Automatic Updates"
+msgstr ""
+
+#: ../class-admin-pointers.php:21
+msgid "Keep your plugin updated by entering your purchase code here."
+msgstr ""
+
+#: ../class-plugin.php:41
+msgid ""
+"Keep your Smooth MouseWheel plugin updated by entering your purchase code "
+"here."
+msgstr ""
+
+#: ../class-plugin.php:79
+msgid "Settings"
+msgstr ""
+
+#: ../class-plugin.php:99
+msgid "Get Customer Support"
+msgstr ""
+
+#: ../class-plugin.php:103
+msgid "Get More Plugins"
+msgstr ""
+
+#: ../class-smooth-scroll.php:45
+msgid "Smooth Scroll Settings"
+msgstr ""
+
+#: ../class-smooth-scroll.php:58
+msgid "Scroll Speed"
+msgstr ""
+
+#: ../class-smooth-scroll.php:66
+msgid "Scroll Tick Amount"
+msgstr ""
+
+#: ../class-smooth-scroll.php:86
+msgid ""
+"The mouse wheel scroll speed. A higher number will scroll the page slower."
+msgstr ""
+
+#: ../class-smooth-scroll.php:103
+msgid ""
+"The scroll amount per mouse wheel tick. A larger number here will scroll the "
+"page farther per wheel."
+msgstr ""
+
+#: ../class-smooth-scroll.php:122
+msgid "Scroll speed should be a number"
+msgstr ""
+
+#: ../class-smooth-scroll.php:132
+msgid "Scroll amount should be a number"
+msgstr ""

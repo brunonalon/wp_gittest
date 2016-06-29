@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parallax Backgrounds for VC\n"
+"POT-Creation-Date: 2014-11-28 00:40+0800\n"
+"PO-Revision-Date: 2014-11-28 00:41+0800\n"
+"Last-Translator: Benjamin Intal <bfintal@gmail.com>\n"
+"Language-Team: Gambit <bf.intal@gambit.ph>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vc-row-parallax.php:477
+msgid "Background Type"
+msgstr ""
+
+#: ../vc-row-parallax.php:480
+msgid "Image Parallax"
+msgstr ""
+
+#: ../vc-row-parallax.php:481
+msgid "Video"
+msgstr ""
+
+#: ../vc-row-parallax.php:483
+msgid ""
+"No live previews are shown in the VC frontend edito due to the different "
+"structure of the editor. The normal background image is shown instead."
+msgstr ""
+
+#: ../vc-row-parallax.php:484 ../vc-row-parallax.php:508
+#: ../vc-row-parallax.php:519 ../vc-row-parallax.php:534
+#: ../vc-row-parallax.php:549 ../vc-row-parallax.php:564
+#: ../vc-row-parallax.php:579 ../vc-row-parallax.php:601
+#: ../vc-row-parallax.php:615 ../vc-row-parallax.php:633
+#: ../vc-row-parallax.php:654 ../vc-row-parallax.php:669
+#: ../vc-row-parallax.php:683
+msgid "Image Parallax / Video"
+msgstr ""
+
+#: ../vc-row-parallax.php:491
+msgid "Breakout Row Background"
+msgstr ""
+
+#: ../vc-row-parallax.php:495 ../vc-row-parallax.php:496
+#: ../vc-row-parallax.php:497 ../vc-row-parallax.php:498
+#: ../vc-row-parallax.php:499 ../vc-row-parallax.php:500
+#: ../vc-row-parallax.php:501 ../vc-row-parallax.php:502
+#: ../vc-row-parallax.php:503 ../vc-row-parallax.php:504
+msgid "Break out of 1 container"
+msgstr ""
+
+#: ../vc-row-parallax.php:505
+msgid "Break out of all containers (full page width)"
+msgstr ""
+
+#: ../vc-row-parallax.php:507
+msgid ""
+"Your background images, background colors, image parallax and video "
+"backgrounds are contained inside a Visual Composer row, depending on your "
+"theme, this container may be too small for your needs. Adjust this option to "
+"let the backgruond stretch outside it's current container and occupy the "
+"parent container's width."
+msgstr ""
+
+#: ../vc-row-parallax.php:515
+msgid "Enable Smooth Scrolling"
+msgstr ""
+
+#: ../vc-row-parallax.php:517
+msgid ""
+"Check this to enable smooth scrolling for the whole page. If at least one "
+"row has this checked, your entire page will scroll smoothly."
+msgstr ""
+
+#: ../vc-row-parallax.php:526
+msgid "YouTube or Vimeo URL or Video ID"
+msgstr ""
+
+#: ../vc-row-parallax.php:529
+msgid ""
+"Enter the URL to the video or the video ID of your YouTube or Vimeo video "
+"you want to use as your background. If your URL isn't showing a video, try "
+"inputting the video ID instead. <em>Ads will show up in the video if it has "
+"them.</em> No video will be shown if left blank. <strong>Tip: newly uploaded "
+"videos may not display right away and might show an error message</"
+"strong><br><br><strong>Videos will not show up in mobile devices because "
+"they handle videos differently. In those cases, please put in a background "
+"image the normal way (in the <em>Design Options</em> tab) and that will be "
+"shown instead.</strong>"
+msgstr ""
+
+#: ../vc-row-parallax.php:541
+msgid "Mute YouTube Video"
+msgstr ""
+
+#: ../vc-row-parallax.php:543
+msgid "Check this to mute your video. This only works for YouTube videos."
+msgstr ""
+
+#: ../vc-row-parallax.php:556
+msgid "YouTube Loop Triggering Refinement"
+msgstr ""
+
+#: ../vc-row-parallax.php:559
+msgid ""
+"<strong>Use this if you see a noticeable dark video frame before the video "
+"loops.</strong> Because YouTube performs it's video looping with a huge "
+"noticeable delay, we try our best to guess when the video exactly ends and "
+"trigger a loop when we <em>just</em> reach the end. If there's a dark frame, "
+"put in a time here in milliseconds that we can use to push back the looping "
+"trigger. Try values from 5-100 milliseconds."
+msgstr ""
+
+#: ../vc-row-parallax.php:571
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: ../vc-row-parallax.php:574
+msgid ""
+"The video will be resized to maintain this aspect ratio, this is to prevent "
+"the video from showing any black bars. Enter an aspect ratio here such as: "
+"&quot;16:9&quot;, &quot;4:3&quot; or &quot;16:10&quot;. The default is "
+"&quot;16:9&quot;"
+msgstr ""
+
+#: ../vc-row-parallax.php:586
+msgid "Background Image Parallax"
+msgstr ""
+
+#: ../vc-row-parallax.php:596
+msgid ""
+"You can select your background image to apply parallax to on the field "
+"below, or you can also head over to the <strong>Design Options</strong> tab "
+"and select an image there.</em></strong>"
+msgstr ""
+
+#: ../vc-row-parallax.php:608
+msgid "Background Image"
+msgstr ""
+
+#: ../vc-row-parallax.php:610
+msgid ""
+"Select your background image. <strong>Make sure that your image is of high "
+"resolution, we will resize the image to make it fit and to optimize it to "
+"achieve the best performance</strong>. You can use this field to input your "
+"image or use the image uploader provided in the <strong>Design Options</"
+"strong> tab."
+msgstr ""
+
+#: ../vc-row-parallax.php:622
+msgid "Background Style / Repeat"
+msgstr ""
+
+#: ../vc-row-parallax.php:625
+msgid "Cover Whole Row (covers the whole row)"
+msgstr ""
+
+#: ../vc-row-parallax.php:626
+msgid "Repeating Image Pattern"
+msgstr ""
+
+#: ../vc-row-parallax.php:628
+msgid ""
+"Select whether the background image above should cover the whole row, or "
+"whether the image is a background seamless pattern."
+msgstr ""
+
+#: ../vc-row-parallax.php:640
+msgid "Background Position / Alignment"
+msgstr ""
+
+#: ../vc-row-parallax.php:643
+msgid "Centered"
+msgstr ""
+
+#: ../vc-row-parallax.php:644
+msgid "Left (only applies to up, down parallax or fixed)"
+msgstr ""
+
+#: ../vc-row-parallax.php:645
+msgid "Right (only applies to up, down parallax or fixed)"
+msgstr ""
+
+#: ../vc-row-parallax.php:646
+msgid "Top (only applies to left or right parallax)"
+msgstr ""
+
+#: ../vc-row-parallax.php:647
+msgid "Bottom (only applies to left or right parallax)"
+msgstr ""
+
+#: ../vc-row-parallax.php:649
+msgid ""
+"The alignment of the background / parallax image. Note that this most likely "
+"will only be noticeable in smaller screens, if the row is large enough, the "
+"image will most likely be fully visible. Use this if you want to ensure that "
+"a certain area will always be visible in your parallax in smaller screens."
+"<br><br><strong>Not applicable to pattern backgrounds.</strong>"
+msgstr ""
+
+#: ../vc-row-parallax.php:661
+msgid "Parallax Speed"
+msgstr ""
+
+#: ../vc-row-parallax.php:664
+msgid ""
+"The movement speed, value should be between 0.1 and 1.0. A lower number "
+"means slower scrolling speed."
+msgstr ""
+
+#: ../vc-row-parallax.php:677
+msgid "Check this to enable the parallax effect in mobile devices"
+msgstr ""
+
+#: ../vc-row-parallax.php:678
+msgid ""
+"Parallax effects would most probably cause slowdowns when your site is "
+"viewed in mobile devices. If the device width is less than 980 pixels, then "
+"it is assumed that the site is being viewed in a mobile device."
+msgstr ""
+
+#: ../vc-row-parallax.php:704
+msgid "Get Customer Support"
+msgstr ""
+
+#: ../vc-row-parallax.php:708
+msgid "Get More Plugins"
+msgstr ""
+
+#: ../vc-row-parallax.php:824
+#, php-format
+msgid "Enjoying %s?"
+msgstr ""
+
+#: ../vc-row-parallax.php:825
+msgid ""
+"Help us out by rating our plugin 5 stars in CodeCanyon! This will allow us "
+"to create more awesome products and provide top notch customer support."
+msgstr ""
+
+#: ../vc-row-parallax.php:826
+msgid "Rate us 5 stars in CodeCanyon :)"
+msgstr ""
+
+#: ../vc-row-parallax.php:827
+msgid "Remind me tomorrow"
+msgstr ""
+
+#: ../vc-row-parallax.php:828
+msgid "I&apos;ve already rated!"
+msgstr ""
+
+#: ../vc-row-parallax.php:902
+#, php-format
+msgid "Thank you for activating %s!"
+msgstr ""
+
+#: ../vc-row-parallax.php:904
+msgid ""
+"Now just edit your <strong>row settings</strong> in Visual Composer, add a "
+"background picture in the <strong>Design Options</strong> tab, then head on "
+"to the <strong>Image Parallax / Video</strong> tab to adjust your parallax."
+msgstr ""
+
+#: ../vc-row-parallax.php:906
+msgid ""
+"If you need any support, you can leave us a ticket in our support site. The "
+"link to our support site is listed in the plugin details for future "
+"reference."
+msgstr ""
+
+#: ../vc-row-parallax.php:907
+msgid "Visit our support site"
+msgstr ""
+
+#: ../vc-row-parallax.php:909
+msgid "This notice will go away in a moment"
+msgstr ""
+
+#: ../vc-row-parallax.php:939
+msgid "Enable Compatibility Mode"
+msgstr ""
+
+#: ../vc-row-parallax.php:944
+msgid "Disable Compatibility Mode"
+msgstr ""
+
+#: ../inc/bfi_thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../inc/bfi_thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../inc/bfi_thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../inc/bfi_thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: ../inc/bfi_thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../inc/bfi_thumb.php:417
+msgid "Image negate failed."
+msgstr ""
